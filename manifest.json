@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "predibase",
+  "repo": "json-mode-benchmark",
+  "versions": [
+    {
+      "commit": "01fe47087920a922e5625e0cb6e6e4ba9ec24b6f",
+      "parsed_at": "2026-11-08T08:57:16.967340+00:00",
+      "filetree": "filetree/01fe47087920a922e5625e0cb6e6e4ba9ec24b6f.nq.gz",
+      "blobs": [
+        "blob/50512a5aa8e612c5d3a6531b1b47e45e95307b9e.nq.gz",
+        "blob/8cb3f19af384b2b2fec42d9ec2dd16b85cadf00e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
