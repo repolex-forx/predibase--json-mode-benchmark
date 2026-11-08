@@ -1,0 +1,11 @@
+{
+  "org": "predibase",
+  "repo": "json-mode-benchmark",
+  "versions": [
+    {
+      "commit": "01fe47087920a922e5625e0cb6e6e4ba9ec24b6f",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:00:24.028724+00:00"
+    }
+  ]
+}
