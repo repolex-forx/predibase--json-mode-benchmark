@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/predibase/json-mode-benchmark/commit/01fe47087920a922e5625e0cb6e6e4ba9ec24b6f",
       "git:hexsha": "01fe47087920a922e5625e0cb6e6e4ba9ec24b6f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
